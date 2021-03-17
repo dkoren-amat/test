@@ -5,3 +5,6 @@ def test_add():
 
 def test_add2():
     assert mod_add.add(3,3)==6
+
+def test_add3():
+ assert mod_add.add(4,4)==8
